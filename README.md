@@ -1,4 +1,4 @@
-README** CST 305 Utilization of a CPU ODE
+README** CST 305 HOW TO DOWNLOAD AND RUN CODE
 
 First, download the newest version of python 2.7, 3.0.
 
