@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 # p = the average percentage of time spent waiting for I/O
 def CPU(p, n):
    n = 10
-   ddp = -n*(p**(n-1))
+   ddp = -n*(p**(n-1))  #  differential equation 1-p^n --> -n*(p**(n-1))
    return ddp
 
 # initial conditions
